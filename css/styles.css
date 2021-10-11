@@ -1,0 +1,19 @@
+#fondo .back{
+    background: url("../img/blob.svg") no-repeat center fixed;
+    height: 100vh;
+}
+
+#climahoy{
+    position: absolute;
+    left: 20px;
+    top: 6px;
+}
+
+#acudit{
+    color:white;
+}
+
+h4{
+    color:white;
+}
+
